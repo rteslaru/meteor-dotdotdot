@@ -16,11 +16,11 @@ Template.yourTemplate.rendered = function() {
 	// configuration goes here
     });
 }
-
+```
 
 See the documentation for more advanced usage and examples, including:
 - 'Read more' type links at the end of the text
 - Fluid layouts
 - Smart truncating long pathnames
 
- 
+
